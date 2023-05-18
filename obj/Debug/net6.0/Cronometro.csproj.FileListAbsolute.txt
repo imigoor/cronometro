@@ -1,0 +1,30 @@
+C:\Users\igora\Cronometro\bin\Debug\net6.0\Cronometro.exe
+C:\Users\igora\Cronometro\bin\Debug\net6.0\Cronometro.deps.json
+C:\Users\igora\Cronometro\bin\Debug\net6.0\Cronometro.runtimeconfig.json
+C:\Users\igora\Cronometro\bin\Debug\net6.0\Cronometro.dll
+C:\Users\igora\Cronometro\bin\Debug\net6.0\Cronometro.pdb
+C:\Users\igora\Cronometro\obj\Debug\net6.0\Cronometro.csproj.AssemblyReference.cache
+C:\Users\igora\Cronometro\obj\Debug\net6.0\Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igora\Cronometro\obj\Debug\net6.0\Cronometro.AssemblyInfoInputs.cache
+C:\Users\igora\Cronometro\obj\Debug\net6.0\Cronometro.AssemblyInfo.cs
+C:\Users\igora\Cronometro\obj\Debug\net6.0\Cronometro.csproj.CoreCompileInputs.cache
+C:\Users\igora\Cronometro\obj\Debug\net6.0\Cronometro.dll
+C:\Users\igora\Cronometro\obj\Debug\net6.0\refint\Cronometro.dll
+C:\Users\igora\Cronometro\obj\Debug\net6.0\Cronometro.pdb
+C:\Users\igora\Cronometro\obj\Debug\net6.0\Cronometro.genruntimeconfig.cache
+C:\Users\igora\Cronometro\obj\Debug\net6.0\ref\Cronometro.dll
+C:\Users\igora\OneDrive\Documentos\Projetos C#\Cronometro\bin\Debug\net6.0\Cronometro.exe
+C:\Users\igora\OneDrive\Documentos\Projetos C#\Cronometro\bin\Debug\net6.0\Cronometro.dll
+C:\Users\igora\OneDrive\Documentos\Projetos C#\Cronometro\obj\Debug\net6.0\Cronometro.csproj.AssemblyReference.cache
+C:\Users\igora\OneDrive\Documentos\Projetos C#\Cronometro\obj\Debug\net6.0\Cronometro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\igora\OneDrive\Documentos\Projetos C#\Cronometro\obj\Debug\net6.0\Cronometro.AssemblyInfoInputs.cache
+C:\Users\igora\OneDrive\Documentos\Projetos C#\Cronometro\obj\Debug\net6.0\Cronometro.AssemblyInfo.cs
+C:\Users\igora\OneDrive\Documentos\Projetos C#\Cronometro\obj\Debug\net6.0\Cronometro.csproj.CoreCompileInputs.cache
+C:\Users\igora\OneDrive\Documentos\Projetos C#\Cronometro\obj\Debug\net6.0\Cronometro.dll
+C:\Users\igora\OneDrive\Documentos\Projetos C#\Cronometro\obj\Debug\net6.0\refint\Cronometro.dll
+C:\Users\igora\OneDrive\Documentos\Projetos C#\Cronometro\obj\Debug\net6.0\Cronometro.pdb
+C:\Users\igora\OneDrive\Documentos\Projetos C#\Cronometro\bin\Debug\net6.0\Cronometro.deps.json
+C:\Users\igora\OneDrive\Documentos\Projetos C#\Cronometro\bin\Debug\net6.0\Cronometro.runtimeconfig.json
+C:\Users\igora\OneDrive\Documentos\Projetos C#\Cronometro\bin\Debug\net6.0\Cronometro.pdb
+C:\Users\igora\OneDrive\Documentos\Projetos C#\Cronometro\obj\Debug\net6.0\Cronometro.genruntimeconfig.cache
+C:\Users\igora\OneDrive\Documentos\Projetos C#\Cronometro\obj\Debug\net6.0\ref\Cronometro.dll
